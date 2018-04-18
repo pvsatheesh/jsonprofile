@@ -4,10 +4,10 @@
         "name":"Satheesh",
         "employeeID":"123456",
         "position":"Manager",
-        "primaryMob":"9976769354",
-        "secondaryMob":"7010061959",
-        "email":"satheesh.p@ibrookinfotech.com",
-        "address":"IBROOK INFOTECH,\nS2 IInd Floor,\nBaharathiyar 1st Street,\nMedavakkam,\nChennai-600100.",
+        "primaryMob":"1234569870",
+        "secondaryMob":"0987654321",
+        "email":"test@test.com",
+        "address":"test",
         "profileImg":"https://reactnativecode.com/wp-content/uploads/2018/01/2_img.png"
     }
 }
